@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+
+
+
+.header {
+    
+    background-attachment: fixed;
+    background-image: url("/images\ \(5\).jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    display: flex;
+    justify-content: space-between;
+
+
+
+    background-size: cover;
+
+}

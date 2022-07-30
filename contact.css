@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+
+
+
+.header {
+    
+    background-attachment: fixed;
+    background-image: url("/images\ \(5\).jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    display: flex;
+    justify-content: space-between;
+
+
+
+    background-size: cover;
+    padding-bottom: 10px;
+
+}
+.text-fields{
+    display: grid;
+    grid-template-areas:
+        "name email"
+        "subject phone"
+        "message message";
+    grid-gap: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+.py-3 {
+    padding: 3rem 0;
+}
+.text-center {
+    text-align: center;
+    background-color: lightcyan;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.6;
+    background: #fff;
+}
+:host, :root {
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+.py-3 {
+    padding: 3rem 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.6;
+    background: #fff;
+}
+:host, :root {
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+.bg-main {
+    background:#ffbc00;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#contact-c h1 {
+    text-align: center;
+    font-size: 4rem;
+    color: black;
+}
+.py-4 {
+    padding: 4rem 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.6;
+    background: #fff;
+}
+:host, :root {
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.6;
+    background: #fff;
+}
+:host, :root {
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+  
+
+#contact-a .text-fields .text-input {
+    padding: 0.5rem 1rem;
+}
+#contact-a .text-fields .message-input {
+    grid-area: message;
+    height: 100px;
+}
+element.style {
+    width: 1261px;
+    height: 206px;
+}
+#contact-a .text-fields .text-input {
+    padding: 0.5rem 1rem;
+}
+#contact-a .text-fields .message-input {
+    grid-area: message;
+    height: 100px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+textarea {
+    writing-mode: horizontal-tb !important;
+  
+    font-family: monospace;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    resize: auto;
+    cursor: text;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    background-color: field;
+    column-count: initial !important;
+    box-sizing: border-box;
+    margin: 0em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    padding: 2px;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.6;
+    background: #fff;
+}
+:host, :root {
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+
+#contact-a .text-fields .text-input {
+    padding: 0.8rem 1rem;
+}
+#contact-a .text-fields .name-input {
+    grid-area: name;
+}
+#contact-a .text-fields .name-input {
+    grid-area: name;
+}
+.form-content input {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px #888 solid;
+    display: block;
+    width: 100%;
+    padding: 15px 0;
+    font-size: 18px;
+    color: #444;
+}
+.py-3 {
+    display: flex;
+    flex-direction: row;
+    padding-left: 500px;
+}
+#contact-b .contact-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
